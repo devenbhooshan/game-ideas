@@ -19,5 +19,9 @@ Optional features:
 
 -special planets can randomly appear that increase the points of all planets that are destroyed together with it
 
+
+Multi-player
+![](/aww-board.png)
+
 #### Links
 * https://www.reddit.com/r/gameideas/comments/h85z49/some_small_thoughtout_13_weeks_game_ideas/
