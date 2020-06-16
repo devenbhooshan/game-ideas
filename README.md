@@ -21,7 +21,7 @@ Optional features:
 
 
 Multi-player
-![](/aww-board.png)
+![](/aww-board%20(1).png)
 
 #### Links
 * https://www.reddit.com/r/gameideas/comments/h85z49/some_small_thoughtout_13_weeks_game_ideas/
